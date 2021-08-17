@@ -15,12 +15,7 @@
 ### 这是我的数据
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=inrhor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
-### 与我为伴的语言
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inrhor&layout=compact)
-
 ***
 
 ### 开源项目
-[![QuestEngine](https://github-readme-stats.vercel.app/api/pin/?username=inrhor&theme=shades-of-purple&repo=QuestEngine)](https://github.com/inrhor/QuestEngine)  
-
-[![imiPet](https://github-readme-stats.vercel.app/api/pin/?username=inrhor&theme=react&repo=imiPet)](https://github.com/inrhor/imiPet) 
+[![QuestEngine](https://github-readme-stats.vercel.app/api/pin/?username=inrhor&theme=shades-of-purple&repo=QuestEngine)](https://github.com/inrhor/QuestEngine)  [![imiPet](https://github-readme-stats.vercel.app/api/pin/?username=inrhor&theme=react&repo=imiPet)](https://github.com/inrhor/imiPet) 
