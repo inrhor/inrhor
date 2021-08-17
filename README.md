@@ -13,7 +13,7 @@
 ***
 
 ### 这是我的数据
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=inrhor&show_icons=true&theme=dracula)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=inrhor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ### 与我为伴的语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inrhor&layout=compact)
