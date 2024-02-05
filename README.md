@@ -6,9 +6,8 @@
 📚 这是我的博客：https://inrhor.hiusers.com/
 
 ### I'm inrhor
-- 💻 于你所见，热爱编程，常用Kotlin语言
+- 💻 于你所见，热爱编程，常用Kotlin语言、React框架
 - ⚙️ 也喜欢搞电子硬件
-- 📖 2021年 我是大一学生
 
 ***
 
